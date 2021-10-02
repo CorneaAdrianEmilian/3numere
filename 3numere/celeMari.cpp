@@ -26,7 +26,7 @@ void celeMaiMari(int arr[],int dimensiune)
 			{
 				if (alDoilea == indecsi[y]) {
 					alDoilea++;
-					y = -1;
+					//y = -1;
 				}
 
 			}
